@@ -1,5 +1,0 @@
-petName = {"name": "Cooper", 
-"age": 4, 
-"hobbies": ["bark", "eat"], 
-"wake up": {"monday": "8am", "tuesday": "7am"}
-}
