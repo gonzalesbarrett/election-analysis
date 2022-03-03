@@ -40,6 +40,7 @@ Total votes cast in the election: 367,711
   - Diana DeGette
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
+ 
 ![Screenshot](https://github.com/gonzalesbarrett/election-analysis/blob/main/Election-Analysis%20Output.png)
 
 ## Election Audit Summary
